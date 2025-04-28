@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1805,
+				380
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "morty idle"
+		},
+		{
+			"offsets": [
+				1807,
+				381
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "morty down"
+		},
+		{
+			"offsets": [
+				1803,
+				376
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "morty left"
+		},
+		{
+			"offsets": [
+				1808,
+				383
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "morty up"
+		},
+		{
+			"offsets": [
+				1804,
+				379
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "morty right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dumb_bitch_morty",
+	"position": [
+		-70,
+		170
+	],
+	"healthicon": "dumbbitch",
+	"flip_x": true,
+	"healthbar_colors": [
+		252,
+		252,
+		105
+	],
+	"camera_position": [
+		200,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

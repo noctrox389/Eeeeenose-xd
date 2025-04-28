@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-287
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-284
+			],
+			"anim": "singLEFT",
+			"fps": 28,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-311
+			],
+			"anim": "singRIGHT",
+			"fps": 28,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-295
+			],
+			"anim": "singDOWN",
+			"fps": 28,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-226
+			],
+			"anim": "singUP",
+			"fps": 28,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				-292
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MleftMiss"
+		},
+		{
+			"offsets": [
+				-60,
+				-308
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MrightMiss"
+		},
+		{
+			"offsets": [
+				-49,
+				-244
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MupMiss"
+		},
+		{
+			"offsets": [
+				34,
+				-363
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MdownMiss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/MajinbeeBF1",
+	"position": [
+		80,
+		125
+	],
+	"healthicon": "majinbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		145,
+		150
+	],
+	"sing_duration": 6.79999999999999,
+	"scale": 2.25,
+	"_editor_isPlayer": true
+}

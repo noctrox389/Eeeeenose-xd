@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dumb_bitch_morty.png">
+<SubTexture name="morty idle0000" x="0" y="1561" width="423" height="731" frameX="-473" frameY="-202" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0001" x="0" y="1561" width="423" height="731" frameX="-473" frameY="-202" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0002" x="2225" y="0" width="421" height="736" frameX="-474" frameY="-197" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0003" x="2225" y="0" width="421" height="736" frameX="-474" frameY="-197" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0004" x="1807" y="0" width="418" height="739" frameX="-475" frameY="-194" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0005" x="1807" y="0" width="418" height="739" frameX="-475" frameY="-194" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0006" x="697" y="816" width="418" height="740" frameX="-474" frameY="-193" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0007" x="697" y="816" width="418" height="740" frameX="-474" frameY="-193" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0008" x="280" y="816" width="417" height="741" frameX="-474" frameY="-192" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0009" x="280" y="816" width="417" height="741" frameX="-474" frameY="-192" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty idle0010" x="1115" y="816" width="419" height="740" frameX="-473" frameY="-193" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty up0000" x="0" y="0" width="232" height="816" frameX="-665" frameY="-136" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty up0001" x="0" y="0" width="232" height="816" frameX="-665" frameY="-136" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty up0002" x="232" y="0" width="230" height="804" frameX="-660" frameY="-148" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty up0003" x="232" y="0" width="230" height="804" frameX="-660" frameY="-148" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty up0004" x="462" y="0" width="234" height="800" frameX="-656" frameY="-152" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty up0005" x="462" y="0" width="234" height="800" frameX="-656" frameY="-152" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty up0006" x="696" y="0" width="236" height="796" frameX="-655" frameY="-155" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty right0000" x="932" y="0" width="306" height="746" frameX="-676" frameY="-201" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty right0001" x="932" y="0" width="306" height="746" frameX="-676" frameY="-201" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty right0002" x="1238" y="0" width="288" height="746" frameX="-676" frameY="-201" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty right0003" x="1238" y="0" width="288" height="746" frameX="-676" frameY="-201" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty right0004" x="1526" y="0" width="281" height="745" frameX="-675" frameY="-202" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty right0005" x="1526" y="0" width="281" height="745" frameX="-675" frameY="-202" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty right0006" x="0" y="816" width="280" height="745" frameX="-675" frameY="-202" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty down0000" x="2940" y="0" width="298" height="661" frameX="-600" frameY="-275" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty down0001" x="2940" y="0" width="298" height="661" frameX="-600" frameY="-275" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty down0002" x="2646" y="0" width="294" height="674" frameX="-601" frameY="-262" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty down0003" x="2646" y="0" width="294" height="674" frameX="-601" frameY="-262" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty down0004" x="1807" y="739" width="291" height="682" frameX="-601" frameY="-254" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty down0005" x="1807" y="739" width="291" height="682" frameX="-601" frameY="-254" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty down0006" x="2225" y="736" width="292" height="686" frameX="-599" frameY="-250" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty left0000" x="2035" y="1561" width="557" height="726" frameX="-334" frameY="-213" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty left0001" x="2035" y="1561" width="557" height="726" frameX="-334" frameY="-213" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty left0002" x="423" y="1561" width="543" height="727" frameX="-348" frameY="-212" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty left0003" x="423" y="1561" width="543" height="727" frameX="-348" frameY="-212" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty left0004" x="966" y="1561" width="536" height="727" frameX="-355" frameY="-212" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty left0005" x="966" y="1561" width="536" height="727" frameX="-355" frameY="-212" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="morty left0006" x="1502" y="1561" width="533" height="727" frameX="-358" frameY="-212" frameWidth="1500" frameHeight="1000" />
+</TextureAtlas>

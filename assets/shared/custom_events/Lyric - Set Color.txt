@@ -1,0 +1,9 @@
+Changes color of color from "Lyric - Set Text".
+
+Value 1: The color (HEX format). Leave blank for default white.
+
+Examples:
+White = ffffff
+Red = ff0000
+Green = 00ff00
+Blue = 0000ff

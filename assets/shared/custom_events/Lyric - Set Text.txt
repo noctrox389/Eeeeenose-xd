@@ -1,0 +1,6 @@
+An event that allows you to display lyrics on screen.
+Or any other text that you want, I guess.	
+
+Value 1: The text to show.
+
+Created by Avis.

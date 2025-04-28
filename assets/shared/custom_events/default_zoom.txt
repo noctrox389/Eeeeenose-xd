@@ -1,0 +1,3 @@
+Value 1:  This is the target zoom value you want to transition to (e.g., 0.7 for the default zoom).
+
+Value 2: This is how long it will take to transition to the target zoom. For example, '1' will take 1 second to change the zoom.

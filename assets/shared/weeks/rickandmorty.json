@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"rickest-rick-v2",
+			"rick",
+			[
+				86,
+				153,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "randm",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the beginning",
+	"weekName": "rick and morty",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
